@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.0"
+  },
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "this is a nde js tutorial ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sameer",
+  "license": "ISC"
+}
